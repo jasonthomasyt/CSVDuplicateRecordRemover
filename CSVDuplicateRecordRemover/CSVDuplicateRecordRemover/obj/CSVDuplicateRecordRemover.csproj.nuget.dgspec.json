@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\Desktop\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover.csproj": {}
+    "C:\\Users\\Jason\\Desktop\\csv-duplicate-record-remover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\Desktop\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover.csproj": {
+    "C:\\Users\\Jason\\Desktop\\csv-duplicate-record-remover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Desktop\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Desktop\\csv-duplicate-record-remover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover.csproj",
         "projectName": "CSVDuplicateRecordRemover",
-        "projectPath": "C:\\Users\\Jason\\Desktop\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover.csproj",
+        "projectPath": "C:\\Users\\Jason\\Desktop\\csv-duplicate-record-remover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Desktop\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Desktop\\csv-duplicate-record-remover\\CSVDuplicateRecordRemover\\CSVDuplicateRecordRemover\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

@@ -13,8 +13,8 @@ namespace CSVDuplicateRecordRemover
             List<string> csvResults = new List<string>(); // The initial results read from the input CSV file.
             List<string> removeDuplicatesList = new List<string>();  // The results of the input CSV file without duplicate rows.
             var outputCsv = new StringBuilder();  // The StringBuilder that will be used to write to the CSV file.
-            string pathToCsvFile = @"C:\Users\Jason\Desktop\CSVDuplicateRecordRemover\DuplicateRemoverSampleInput.csv"; // The path to the input CSV file.
-            string pathToOutputCsvFile = @"C:\Users\Jason\Desktop\CSVDuplicateRecordRemover\ResultWithoutDuplicates.csv";  // The path to the output CSV file.
+            string pathToCsvFile = @"C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\DuplicateRemoverSampleInput.csv"; // The path to the input CSV file.
+            string pathToOutputCsvFile = @"C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\ResultWithoutDuplicates.csv";  // The path to the output CSV file.
 
             // Read the input CSV file, and add each row to the csvResults list.
             using (var reader = new StreamReader(pathToCsvFile))

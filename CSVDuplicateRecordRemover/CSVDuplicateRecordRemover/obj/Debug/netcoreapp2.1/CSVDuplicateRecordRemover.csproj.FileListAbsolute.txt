@@ -9,3 +9,14 @@ C:\Users\Jason\Desktop\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\D
 C:\Users\Jason\Desktop\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.AssemblyInfo.cs
 C:\Users\Jason\Desktop\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.dll
 C:\Users\Jason\Desktop\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.pdb
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\bin\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.deps.json
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\bin\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.runtimeconfig.json
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\bin\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.runtimeconfig.dev.json
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\bin\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.dll
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\bin\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.pdb
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.AssemblyInfo.cs
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.dll
+C:\Users\Jason\Desktop\csv-duplicate-record-remover\CSVDuplicateRecordRemover\CSVDuplicateRecordRemover\obj\Debug\netcoreapp2.1\CSVDuplicateRecordRemover.pdb
